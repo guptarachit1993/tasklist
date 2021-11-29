@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tasklistproject.TaskListSpringBoot2ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.363 s - in tasklistproject.TaskListSpringBoot2ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.935 s - in tasklistproject.TaskListSpringBoot2ApplicationTests
