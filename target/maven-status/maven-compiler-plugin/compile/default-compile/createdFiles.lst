@@ -1,0 +1,9 @@
+tasklistproject\service\TodoService.class
+tasklistproject\TaskListSpringBoot2Application.class
+tasklistproject\controller\ErrorController.class
+tasklistproject\controller\TaskListController.class
+tasklistproject\model\TaskList.class
+tasklistproject\security\SecurityConfiguration.class
+tasklistproject\controller\WelcomeController.class
+tasklistproject\service\ITodoService.class
+tasklistproject\repository\TaskListRepository.class
